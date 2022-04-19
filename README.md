@@ -1,3 +1,6 @@
+# For more information PLEASE VISIT https://www.youtube.com/watch?v=cbor6hpsWMk&t=2s
+The original repo is https://github.com/RBeato/basic-dApp
+
 # basic_dapp
 
 A new Flutter project.
